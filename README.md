@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+
+Languages and Tools:
+bootstrap css3 figma git html5 javascript nodejs react sass
