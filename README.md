@@ -48,3 +48,19 @@ Here are some ideas to get you started:
 <div align="center">
 React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQuery || Firebase || Node.js || MySQL
 </div>
+
+<h2>Proyectos</h2>
+<h3>- Página Web  para Furla. </h3>
+Proyecto para el curso de Desarrollo Web de CoderHouse. 
+<br>
+📌**Enlace**: https://eugeniaveron.github.io/mirepositorio/
+
+<h3>- Carrito de compras. </h3>
+Continuando con el proyecto anterior, se creó un carrito virtual aplicando javaScript y jQuery. 
+<br>
+📌**Enlace**: https://eugeniaveron.github.io/ProyectoJavaScript/
+
+<h3>- E-commerce para Manada. </h3>
+Proyecto final para el curso de ReactJs. 
+<br>
+📌**Enlace**: [https://eugeniaveron.github.io/ProyectoJavaScript/](https://react-repositorio.vercel.app/)
