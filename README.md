@@ -63,4 +63,4 @@ Continuando con el proyecto anterior, se creó un carrito virtual aplicando java
 <h3>- E-commerce para Manada. </h3>
 Proyecto final para el curso de ReactJs. 
 <br>
-📌**Enlace**: [https://eugeniaveron.github.io/ProyectoJavaScript/](https://react-repositorio.vercel.app/)
+📌**Enlace**: https://react-repositorio.vercel.app/
