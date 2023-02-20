@@ -35,8 +35,16 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" atl="JQuery" width="55" height="45"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" atl="Firebase" width="55" height="45"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" atl="NodeJs" width="55" height="45"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" atl="MySQL" width="55" height="45"/>
+
+
 </div>
 
 <div align="center">
-React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQuery
+React || JavaScript || CSS3 || HTML5 || SASS || Bootstrap || Git || GitHub || JQuery || Firebase || Node.js || MySQL
 </div>
